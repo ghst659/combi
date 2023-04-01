@@ -1,0 +1,4 @@
+planck,heisenberg,dirac
+:,;
+pi,e,hbar
+3.1415
