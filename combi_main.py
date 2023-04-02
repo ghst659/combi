@@ -11,7 +11,7 @@ import sys
 
 import combi
 
-DEFAULT_SEP = ","
+DEFAULT_SEP = "|"
 
 class Channel(enum.StrEnum):
     """Enum of possible I/O channels."""
